@@ -1,23 +1,25 @@
-# Galaxy Tab 512GB–1TB cho mẹ (tiếng Việt)
+# Chọn Samsung Galaxy Tab cũ cho mẹ (256GB và 512GB)
 
-Trang so sánh tương tác 13 phiên bản Samsung Galaxy Tab với bộ nhớ **trong máy** từ 512GB đến 1TB, cập nhật theo nguồn kiểm tra ngày 18/11/2026.
+Website tiếng Việt dễ dùng trên điện thoại: so sánh **Samsung đã qua sử dụng**, ưu tiên máy dưới 10 triệu đồng, có bút S Pen, phù hợp Zalo/Zoom, chụp ảnh cơ bản, lưu ảnh và xem phim.
 
-## Mở file
+## Link người dùng đang chia sẻ
 
-- [Mở index.html trong GitHub](./index.html) (chỉ hiển thị mã HTML trên GitHub).
-- Để mở như website, vào **Repository Settings → Pages → Build and deployment → Deploy from a branch → main → /(root) → Save**. Sau khi GitHub xác nhận đã xuất bản, mở `https://ducnguyen279.github.io/DucNguyen279/tablet-cho-me/`.
-- Nếu chưa bật Pages, tải file `index.html` và mở bằng trình duyệt có hỗ trợ HTML cục bộ.
+**https://raw.githack.com/DucNguyen279/DucNguyen279/main/tablet-cho-me/index.html**
 
-## Chức năng
+Trang sử dụng đường dẫn nhánh **main**, cập nhật từ GitHub sau thời gian lưu cache ngắn (thường vài phút). Đây là liên kết phát triển/xem thử, không phải host đảm bảo hoạt động lâu dài.
 
-- Lọc 512GB / 1TB, Việt Nam / Nhật Bản, giá theo ngân sách ¥100.000, trọng lượng, tìm tên model.
-- So sánh tối đa 3 máy: giá, khối lượng, pin, chip và thời hạn cập nhật.
-- Mỗi mẫu có liên kết tới nguồn giá hoặc trang Mercari. Giá có thể biến động và tình trạng hàng bán phải xác minh lại.
+## Mẫu đang hiển thị (18/11/2026)
 
-## Cảnh báo
+1. Galaxy Tab S10 FE 12/256GB cũ — 7.900.000đ (TheTekCoffee)
+2. Galaxy Tab S9 FE+ 12/256GB cũ — 8.590.000đ (TheTekCoffee)
+3. Galaxy Tab S9 12/256GB cũ — 9.350.000đ (tin Chợ Tốt)
+4. Galaxy Tab S9+ 12/512GB cũ — 12.990.000đ (tin Chợ Tốt)
+5. Galaxy Tab S9 Ultra 12/512GB cũ — 13.990.000đ (giá rao Chợ Tốt, không khuyến nghị vì quá lớn)
 
-Trang bán S10+ 512GB tại Điện Thoại Vui có **tên máy là 512GB, nhưng mã hàng chứa 256GB**; còn hết hàng. Không kết luận mua được 512GB với giá đó trước khi cửa hàng xác nhận bằng ảnh màn hình của máy.
+**Không đưa máy không có giá nguồn, hàng 1TB quá đắt hoặc tin hết hạn vào danh sách chính.** Giá niêm yết không đồng nghĩa còn bán; phải xác minh trực tiếp, đúng bộ nhớ trong, tình trạng pin, S Pen, chính sách bảo hành trước khi mua.
 
-Các mẫu S12 và S11 512GB chính hãng Nhật đang vượt ngân sách; nhiều giá thị trường cũ tại Việt Nam chỉ là giá rao, không phải giao dịch đã xác nhận.
+## GitHub Pages
 
-Tài liệu phi thương mại, không thu thập thông tin cá nhân hoặc chạy mã bên ngoài.
+Nếu muốn host chuyên dụng, truy cập Settings → Pages → chọn Deploy from a branch / main / (root). URL dự kiến sau khi xuất bản: https://ducnguyen279.github.io/DucNguyen279/tablet-cho-me/ (chỉ chia sẻ sau khi kiểm tra hoạt động).
+
+Mã HTML/CSS/JS thuần, không theo dõi người dùng, không cần API, không chạy nội dung của bên thứ ba.
