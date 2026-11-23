@@ -1,17 +1,21 @@
-# AI & Semiconductor Valuation Dashboard (20 Nov 2026)
+# Japan & U.S. Full-Market Top 5 · 2035
 
-Interactive, mobile-friendly research comparing selected U.S. and Japanese AI / semiconductor names. Includes valuation, ROE, earnings growth, TAM/SAM/SOM, historical midterm data, and a separate 2035 x10/x20/x30 market-cap screen denominated in USD.
+Interactive Vietnamese-first research dashboard with English and Japanese controls. It screens broad Japan and U.S. listed-stock universes, then ranks the candidates by valuation, ROE/ROIC, earnings growth, moat, repeatability, and cycle risk.
 
 - **Live dashboard:** https://ai-2035-ranking.duc2799.chatgpt.site
 - **HTML source:** [index.html](./index.html)
-- **Market-data cutoff:** 20 Nov 2026; FX for Japan capitalization comparison: ¥158.73/USD. Quotes and multiples are not live feeds.
+- **Data cutoff:** 20 Nov 2026 close. Japanese market caps are converted at ¥158.54/USD for comparison; quotes and multiples are not live feeds.
 
-## 2035 asymmetric-growth screen
+## Rankings
 
-Japan: JEM (6855), Adtec Plasma (6668), SAMCO (6387). U.S.: SIMO, AAOI, AOSL. Combined x10 shortlist: SIMO, JEM, Adtec. These are research candidates, not predictions that any will achieve a tenfold return. x10 over roughly nine years requires about 29% annualized capitalization growth; x20 requires 39%, x30 44%. The dashboard shows target market capitalizations in USD.
+- **Japan:** MEC (4971), VRAIN Solution (135A), G-DEP Advance (5885), Sapeet (269A), JEM (6855).
+- **U.S.-listed:** Silicon Motion (SIMO), GigaCloud (GCT), Penguin Solutions (PENG), Pagaya (PGY), Ituran (ITRN). This group includes foreign issuers listed in the U.S.
+- **Combined risk-adjusted top 5:** SIMO, MEC, GCT, VRAIN, PENG.
 
-The 26-year idea (March 2009 to 2035) is a scenario, not a reliable market-timing rule. Historical secular bull periods are often dated around 16–20 years, and the current cycle is unfinished. IBM is a strategic analogy for an essential platform with switching costs, not a stock to copy mechanically.
+These are research rankings, not buy orders or guaranteed winners. JEM is excluded from the combined top 5 because memory-cycle earnings need normalization; Sapeet's FY2027 guidance shows lower net income despite rapid sales growth. The dashboard also flags cyclical low-P/E traps, concentration, loss-making companies, and differing P/E calculation bases.
 
-POET is excluded from the top shortlist because current revenue is tiny and shares outstanding have expanded sharply. AOSL and AAOI are explicitly marked high risk due to weak/currently negative earnings. Memory names may rebound, but a low P/E can reflect peak-cycle earnings and NAND supply risk.
+## 2035 upside arithmetic
 
-Sources are linked inside the dashboard. Educational research only; confirm current prices, forecasts, company filings, and FX before investing.
+The dashboard shows current USD-equivalent market capitalizations and the capitalization required for x10/x20/x30. These are arithmetic hurdles, not price targets. Over roughly nine years, x10 requires about 29% annualized growth, x20 about 39%, and x30 about 44%, before dividends. The “26 years from the 2009 low to 2035” idea is treated as a scenario, not a recurring or guaranteed market cycle.
+
+Company filings, market-data sources, and screening references are linked in the dashboard. Validate fresh prices, guidance, and FX before investing.
